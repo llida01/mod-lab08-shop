@@ -1,6 +1,6 @@
 // Copyright 2021 GHA Test Team
 #include <gtest/gtest.h>
-#include "task.h"
+#include <task.h>
 
 TEST(test1, served) {
 	Shop shop(2, 10, 50, 9, 5);
