@@ -1,6 +1,5 @@
 // Copyright 2021 GHA Test Team
 #include "gtest/gtest.h"
-#include "pch.h"
 #include "task.h"
 
 TEST(test1, served) {
